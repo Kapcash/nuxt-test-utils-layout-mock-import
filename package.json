@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "prepare": "nuxt prepare",
     "dev": "nuxt dev",
     "build": "nuxt build",
     "test": "vitest run",
