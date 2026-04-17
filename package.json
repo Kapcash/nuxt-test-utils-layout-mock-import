@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-test-utils-layout-mock-import",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "nuxt": "^4.4.2"
+  },
+  "devDependencies": {
+    "@nuxt/test-utils": "^4.0.2",
+    "@vue/test-utils": "^2.4.6",
+    "happy-dom": "^20.0.11",
+    "vitest": "^4.0.2"
+  }
+}
